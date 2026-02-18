@@ -9,6 +9,4 @@
 ## Sup
 Hello, welcome to my profile, feel free to check out my projects.
 
-I create some useful software for myself, some are being gatekeeped and left private.
-
 Those project that I fork is usually I contributed to.
