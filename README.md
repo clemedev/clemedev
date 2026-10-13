@@ -8,3 +8,9 @@
 Welcome to my GitHub Profile, I love Metro systems. feel free to check out my projects in my profile! You can reach out to me via my [Digital Name Card](https://clemedev.github.io/DName/)
 
 ![1791851539405](image/README/1791851539405.webp)
+
+> Singapore Bus 173 - Clementi
+
+![1791852275977](image/README/1791852275977.png)
+
+> Malaysia's First Articulated Bus Fleet from GOKL - CRRC C18 Electric Bendy Bus
