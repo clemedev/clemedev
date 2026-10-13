@@ -9,7 +9,7 @@ Welcome to my GitHub Profile, I love Metro systems. feel free to check out my pr
 
 ![1791851539405](image/README/1791851539405.webp)
 
-> Singapore Bus 173 - Clementi
+> Singapore Bus Service 173 - connecting Bukit Batok Interchange to Clementi Interchange - Yutong E12 Electric Bus
 
 ![1791852275977](image/README/1791852275977.png)
 
