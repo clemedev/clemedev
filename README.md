@@ -5,6 +5,6 @@
 
 ## Hello there
 
-Welcome to my GitHub Profile, I love Metro systems. feel free to check out my projects in my profile! You can reach out to me via my [Digital Name Card]([clemedev.github.io/DName](https://clemedev.github.io/DName/))
+Welcome to my GitHub Profile, I love Metro systems. feel free to check out my projects in my profile! You can reach out to me via my [Digital Name Card](https://clemedev.github.io/DName/)
 
 ![1791851539405](image/README/1791851539405.webp)
