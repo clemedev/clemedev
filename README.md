@@ -1,16 +1,30 @@
-## GitHub Stats
+# Hi there, I'm Clement Chong 👋
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=clemedev&theme=dark&show_icons=true&count_private=true">
+🎓 **Software Engineering Student** at Sunway University (in partnership with Lancaster University)
+🏆 **Top 150 Builder** @ OpenAI Build Week: Codex Community Hackathon Kuala Lumpur 2026
+💼 **Seeking a Software Engineering Internship** commencing **25 January 2027** (KL / PJ / Subang Jaya)
 
-## Hello there
+---
 
-Welcome to my GitHub Profile, I love Metro systems. feel free to check out my projects in my profile! You can reach out to me via my [Digital Name Card](https://clemedev.github.io/DName/)
+### 🚀 Featured Projects
 
-![1791851539405](image/README/1791851539405.webp)
+- 📱 **[WarungAI](https://github.com/clemedev/WarungAI)** — Mobile-first bookkeeping PWA for Malaysian hawkers with OCR & voice input (Top 150 Builder @ Codex Hackathon).
+- 📄 **[Scribd-Viewer](https://github.com/clemedev/Scribd-Viewer)** — Open-source document preview utility with 30+ ⭐ and ~100 weekly organic views.
+- 🤖 **[AiChat](https://github.com/clemedev/AiChat)** — Command-line generative AI assistant integrating the Google Gemini API.
+- 📇 **[DName](https://clemedev.github.io/DName/)** — Mobile-friendly digital name card with integrated analytics.
 
-> Singapore Bus Service 173 - connecting Bukit Batok Interchange to Clementi Interchange - Yutong E12 Electric Bus
+---
 
-![1791852275977](image/README/1791852275977.png)
+### 🛠️ Tech Stack & Skills
 
-> Malaysia's First Articulated Bus Fleet from GOKL - CRRC C18 Electric Bendy Bus
+- **Core Languages:** Python, HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub, Linux CLI, Vercel, Google Gemini API
+- **Coursework & AI-Assisted Development:** JavaScript, React, SQL (PostgreSQL), Supabase, Java
+
+---
+
+### 📬 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/clementtech](https://www.linkedin.com/in/clementtech/)
+- 📇 **Digital Card:** [clemedev.github.io/DName](https://clemedev.github.io/DName/)
+- ✉️ **Email:** clementch730@gmail.com
