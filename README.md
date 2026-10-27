@@ -5,10 +5,10 @@
 [![Website](https://img.shields.io/badge/Digital_Card-clemedev-10B981?style=flat&logo=safari)](https://clemedev.github.io/DName/)
 [![Email](https://img.shields.io/badge/Email-clementch730%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:clementch730@gmail.com)
 
-🎓 **Software Engineering Undergraduate** at Sunway University (in partnership with Lancaster University)
-🏆 **Top 150 Builder** @ OpenAI Build Week: Codex Community Hackathon Kuala Lumpur 2026
-🏅 **4x Dean’s List Awardee** (CGPA: 3.56 / 4.00)
-💼 **Seeking a Software Engineering Internship** starting **25 January 2027** *(Open to Subang Jaya, PJ & KL)*
+- 🎓 **Software Engineering Undergraduate** at Sunway University (in partnership with Lancaster University)
+- 🏆 **Top 150 Builder** @ OpenAI Build Week: Codex Community Hackathon Kuala Lumpur 2026
+- 🏅 **4x Dean’s List Awardee** (CGPA: 3.56 / 4.00)
+- 💼 **Seeking a Software Engineering Internship** starting **25 January 2027** *(Open to Subang Jaya, PJ & KL)*
 
 ---
 
